@@ -6,19 +6,12 @@
 
 ---
 
-<!-- 🎵 Spotify Embed -->
+## 🎵 Listen on Spotify
+
 <p align="center">
-  <iframe 
-    data-testid="embed-iframe" 
-    style="border-radius:12px" 
-    src="https://open.spotify.com/embed/artist/5ZvP0VgLny5fZmzvnWSwWf?utm_source=generator" 
-    width="100%" 
-    height="352" 
-    frameborder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-  </iframe>
+  <a href="https://open.spotify.com/artist/5ZvP0VgLny5fZmzvnWSwWf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="120" alt="Spotify">
+  </a>
 </p>
 
 ---
