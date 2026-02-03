@@ -1,7 +1,7 @@
 ## 🎮 My GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/esp-sakshyam/introducing/main/assets/space-shooter.gif" alt="Space Shooter Game" width="550" />
+  <img src="https://raw.githubusercontent.com/esp-sakshyam/introducing/main/assets/space-shooter.gif" alt="Space Shooter Game" width="750" />
 </p>
 
 <br> 
