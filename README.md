@@ -10,12 +10,6 @@
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img>
-  src="https://github-readme-streak-stats.herokuapp.com/?user=esp-sakshyam&theme=dark" 
-  width="95%" alt="Streak Stats"
-<img/>
-
 <br>
 
 <!-- Profile Summary Card -->
